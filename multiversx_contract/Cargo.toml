@@ -1,0 +1,13 @@
+[package]
+name = "multiversx-contract"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]
+multiversx-sc-sdk = "0.39.4"
+
+[dev-dependencies]
+multiversx-sc-scenario = "0.39.4"  
