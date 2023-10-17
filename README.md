@@ -1,6 +1,9 @@
 # Pinnect
 Game-map collaboration, all for gamers, with MultiversX.
+
 Pitch deck: https://docsend.com/view/aj4995nu8c3f7cyk
+Pitch video: https://youtu.be/CdXRM_3mca8
+
 ![Pinnect.001.jpeg](/images/Pinnect-MultiversX.001.jpeg)
 ## MultiversX Game Scalability Integrated
 Pinnect is poised to take full advantage of the MultiversX Games Scalability, to go bigger, faster, and smarter in the realm of collaborative storytelling and interactive gaming.
